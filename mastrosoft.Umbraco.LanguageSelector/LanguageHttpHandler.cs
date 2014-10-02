@@ -111,9 +111,9 @@ namespace mastrosoft.Umbraco.LanguageSelector
                             Document rootDocument = GetRoot(relatedDocument);
                             Document originalRootDocument = GetRoot(d);
 
-                            context.Response.Write(umbraco.library.NiceUrl(relatedDocument.Id) + "<br/>");
+                            /*context.Response.Write(umbraco.library.NiceUrl(relatedDocument.Id) + "<br/>");
                             context.Response.Write(umbraco.library.NiceUrl(rootDocument.Id) + "<br/>");
-                            context.Response.Write(umbraco.library.NiceUrl(originalRootDocument.Id) + "<br/>");
+                            context.Response.Write(umbraco.library.NiceUrl(originalRootDocument.Id) + "<br/>");*/
 
                             /*if (nodeID != originalRootDocument.Id)
                             {*/
