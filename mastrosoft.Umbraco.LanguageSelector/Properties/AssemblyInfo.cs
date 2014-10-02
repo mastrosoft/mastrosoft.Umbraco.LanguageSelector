@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("mastrosoft.Umbraco.LanguageSelector")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Mastronardi Software")]
 [assembly: AssemblyProduct("mastrosoft.Umbraco.LanguageSelector")]
 [assembly: AssemblyCopyright("Copyright © Mastronardi Software 2012")]
 [assembly: AssemblyTrademark("")]
